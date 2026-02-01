@@ -1,1 +1,1 @@
-print("prime-core INSERT")
+print("prime-core UPDATE")
