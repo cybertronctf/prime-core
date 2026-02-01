@@ -1,1 +1,0 @@
-print("prime-core FIX2")
